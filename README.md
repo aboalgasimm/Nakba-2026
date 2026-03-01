@@ -19,6 +19,9 @@ Our system follows an end-to-end **CNN–BiLSTM–CTC** framework:
 
 This architecture allows the model to jointly learn visual representations and sequence modeling directly from raw image inputs.
 
+![architecture](https://github.com/user-attachments/assets/dbd67322-f87e-4e13-9cbc-6bae3c09fb36)
+
+
 ---
 
 ## Training Setup
